@@ -4878,7 +4878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 6684248697361531490}
-  gameTime: 5
+  gameTime: 30
 --- !u!114 &6153894892430894973
 MonoBehaviour:
   m_ObjectHideFlags: 0
