@@ -1,0 +1,31 @@
+﻿"(1-3= No Music, 4-6 = Music)","Experienced or Inexperienced Gamer (0 = Inexperienced, 1 = Experienced )",Music or No Music ,User Identifier,Hits,Misses,Accuracy
+Trial 1 ,Experienced,No Music,1,54,14,79.41%
+Trial 2 ,Experienced,No Music,1,112,13,89.60%
+Trial 3 ,Experienced,No Music,1,176,28,86.27%
+Trial 4,Experienced,Music,1,61,8,88.41%
+Trial 5,Experienced,Music,1,114,15,88.37%
+Trial 6,Experienced,Music,1,168,10,94.38%
+Trial 1 ,Inexperienced,No Music,2,42,2,95.45%
+Trial 2 ,Inexperienced,No Music,2,94,4,95.92%
+Trial 3 ,Inexperienced,No Music,2,131,10,92.91%
+Trial 4,Inexperienced,Music,2,49,1,98.00%
+Trial 5,Inexperienced,Music,2,94,7,93.07%
+Trial 6,Inexperienced,Music,2,148,14,91.36%
+Trial 1 ,Experienced,No Music,3,36,1,97.30%
+Trial 2 ,Experienced,No Music,3,77,2,97.47%
+Trial 3 ,Experienced,No Music,3,104,8,92.86%
+Trial 4,Experienced,Music,3,38,1,97.44%
+Trial 5,Experienced,Music,3,77,6,92.77%
+Trial 6,Experienced,Music,3,120,8,93.75%
+Trial 1 ,Experienced,No Music,4,31,2,93.94%
+Trial 2 ,Experienced,No Music,4,80,6,93.02%
+Trial 3 ,Experienced,No Music,4,113,7,94.17%
+Trial 4,Experienced,Music,4,43,1,97.73%
+Trial 5,Experienced,Music,4,80,4,95.24%
+Trial 6,Experienced,Music,4,129,9,93.48%
+Trial 1 ,Experienced,No Music,5,57,21,73.08%
+Trial 2 ,Experienced,No Music,5,100,39,71.94%
+Trial 3 ,Experienced,No Music,5,184,37,83.26%
+Trial 4,Experienced,Music,5,56,12,82.35%
+Trial 5,Experienced,Music,5,125,21,85.62%
+Trial 6,Experienced,Music,5,192,47,80.33%
