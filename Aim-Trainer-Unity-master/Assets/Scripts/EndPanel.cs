@@ -24,5 +24,11 @@ public class EndPanel : MonoBehaviour
 
 		Cursor.visible = true;
 		Cursor.lockState = CursorLockMode.None;
+
+		if(NextTrial.instance && NextTrial.instance.finalTrial)
+        {
+			gameObject.SetActive(false);
+			NextTrial.instance.EndTrial();
+		}	
 	}
 }

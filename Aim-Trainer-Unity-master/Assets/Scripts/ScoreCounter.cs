@@ -8,6 +8,11 @@ public class ScoreCounter : MonoBehaviour
 	[SerializeField] TMP_Text text;
 	public static int Score { get; private set; }
 
+	private void Start()
+	{
+		Score = 0; //reset counter on level start
+	}
+
 	void OnEnable()
 	{
 		Target.OnTargetHit += OnTargetHit;
